@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T22:03:06Z" name="Suite" finished-at="2023-09-11T22:03:17Z" duration-ms="11016">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T22:03:06Z" name="Test" finished-at="2023-09-11T22:03:17Z" duration-ms="11016">
+      <class name="Test.parrllelTestingDemo">
+        <test-method signature="FirefoxTest()[pri:0, instance:Test.parrllelTestingDemo@776aec5c]" started-at="2023-09-11T22:03:06Z" name="FirefoxTest" finished-at="2023-09-11T22:03:17Z" duration-ms="10955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxTest -->
+        <test-method signature="ChromeTest()[pri:0, instance:Test.parrllelTestingDemo@776aec5c]" started-at="2023-09-11T22:03:06Z" name="ChromeTest" finished-at="2023-09-11T22:03:17Z" duration-ms="10184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeTest -->
+      </class> <!-- Test.parrllelTestingDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
